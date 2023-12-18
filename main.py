@@ -14,5 +14,6 @@ st.write('''
 This is our first Web App
 ''')
 st.write(df) #writes dataframe created above
+st.line_chart(df)
 
 #comment
