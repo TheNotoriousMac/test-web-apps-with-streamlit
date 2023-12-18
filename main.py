@@ -13,6 +13,6 @@ st.subheader("Introducing Streamlit in Automate Everything with Python")
 st.write('''
 This is our first Web App
 ''')
-st.write(df)
+st.write(df) #writes dataframe created above
 
 #comment
